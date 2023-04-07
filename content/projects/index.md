@@ -1,8 +1,8 @@
 +++
-title = "projects"
+title = "Projects"
 +++
 
-## Involvement in projects
+## Involvement in Projects
 
 - [RUM access method](https://github.com/postgrespro/rum)
 - [Session wide variables for PostgreSQL](https://github.com/postgrespro/pg_variables)

@@ -1,8 +1,8 @@
 +++
-title = "presentations"
+title = "Presentations"
 +++
 
-## Conferences materials
+## Conferences Materials
 
 - Using pg_variables as temporary tables:
   [pdf](https://za-arthur.xyz/static/presentations/pg-variables-pgconf-ru-2019.pdf),
