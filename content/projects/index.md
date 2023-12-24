@@ -16,6 +16,9 @@ title = "Projects"
 - Add word_similarity to pg_trgm contrib module:
   [commit](https://github.com/postgres/postgres/commit/f576b17cd6ba653bdace1f0da9a3b57f4984e460),
   [discussion](https://www.postgresql.org/message-id/flat/567461EC.4030803@postgrespro.ru)
+- Improve support of Hunspell:
+  [commit](https://github.com/postgres/postgres/commit/f4ceed6ceba31a72ed7a726fef05d211641f283c),
+  [discussion](https://www.postgresql.org/message-id/flat/56264908.2020203@postgrespro.ru)
 - Avoid some unnecessary block reads in WAL reader:
   [commit](https://github.com/postgres/postgres/commit/0dd6ff0ac8482f753405c5bdb091d2a8adc58e75),
   [discussion](https://www.postgresql.org/message-id/2ddf4a32-517e-d6f4-d992-4a63b6035bfd@postgrespro.ru)
