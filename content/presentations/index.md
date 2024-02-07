@@ -4,6 +4,8 @@ title = "Presentations"
 
 ## Conferences Materials
 
+- pg_repack: Handling table bloat in Terabytes of data
+  [pdf](/presentations/pg_repack-pgmeetup-berlin-2024-02.pdf)
 - Using pg_variables as temporary tables:
   [pdf](/presentations/pg-variables-pgconf-ru-2019.pdf),
   [PGConf.Russia 2019](https://pgconf.ru/en/2019/242940)
